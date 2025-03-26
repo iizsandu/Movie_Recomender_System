@@ -1,5 +1,4 @@
 pandas
 numpy
-AST
 scikit-learn
 nltk
